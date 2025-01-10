@@ -1,3 +1,5 @@
+import React from "react";
+
 import "./Caroussel.css"; // Import du fichier CSS
 
 const quotes = [

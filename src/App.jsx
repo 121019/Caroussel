@@ -1,11 +1,14 @@
-   import './components/Caroussel.css'
-  import Caroussel from "./components/Caroussel"
+import React from "react";
+
+import "./components/Caroussel.css";
+import Caroussel from "./components/Caroussel";
 
 function App() {
-   return (
-    <><Caroussel />
+  return (
+    <>
+      <Caroussel />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
